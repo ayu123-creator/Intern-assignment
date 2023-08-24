@@ -1,0 +1,31 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30rem;
+  color: rgb(36, 35, 35);
+}
+.component1{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+  align-items: center;
+  margin-left:11.5rem;
+  color: rgb(36, 35, 35);
+  text-align: center;
+}
+/* table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+tr:nth-child(even) {
+  background-color: rgb(253, 252, 250);
+}
+th,td{
+  border: 2px solid rgb(36, 35, 35);
+} */
+body{
+  background-color:aliceblue;
+}
